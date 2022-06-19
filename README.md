@@ -7,8 +7,8 @@
  👉 It has 5 different methods
 
 - findall 
-- search - match object return garne
-- split - kunai euta text vanda mathi ko strings lai list ma rakhincha, feri tei text vanda muni ko arko same text naaunjel lai list ma rakhdincha
+- search 
+- split
 - sub
 - finditer
 
